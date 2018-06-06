@@ -70,12 +70,10 @@
 	"devDependencies": {
 		"nw": "0.12.3"
 	},
-	"script_notes": "to run a script w/o using npm test, use npm run [script name]",
 	"scripts": {
 		"start": "npm run nw",
 		"nodewebkit": "nodewebkit",
-		"nw": "nw",
-		"test": "node ./node_modules/nodeunit/bin/nodeunit ./test/test.js"
+		"nw": "nw"
 	},
 	"enableStartupConfig": false,
 	"buildType": "release",
