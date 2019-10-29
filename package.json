@@ -56,7 +56,7 @@
     "yauzl": "2.10.0"
   },
   "devDependencies": {
-    "nw": "0.12.3"
+    "nw": "0.42.0"
   },
   "un-managed-dependencies": {
     "semver": "4.2.0",
